@@ -1,0 +1,88 @@
+1622878376119	geckodriver	INFO	Listening on 127.0.0.1:2742
+1622878379118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjh\\AppData\\Local\\Temp\\rust_mozprofileUvBwM6"
+*** You are running in headless mode.
+1622878380528	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622878381979	Marionette	INFO	Listening on port 12766
+1622878382315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622878446476	geckodriver	INFO	Listening on 127.0.0.1:10000
+1622878449539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjh\\AppData\\Local\\Temp\\rust_mozprofileEpBAID"
+*** You are running in headless mode.
+1622878450053	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622878469596	geckodriver	INFO	Listening on 127.0.0.1:2318
+1622878471035	geckodriver	INFO	Listening on 127.0.0.1:11431
+1622878472032	geckodriver	INFO	Listening on 127.0.0.1:7832
+1622878472958	geckodriver	INFO	Listening on 127.0.0.1:7835
+1622878473774	geckodriver	INFO	Listening on 127.0.0.1:13073
+1622878474542	geckodriver	INFO	Listening on 127.0.0.1:13076
+1622878475303	geckodriver	INFO	Listening on 127.0.0.1:13079
+1622878476109	geckodriver	INFO	Listening on 127.0.0.1:7879
+1622878476936	geckodriver	INFO	Listening on 127.0.0.1:7882
+1622878477600	geckodriver	INFO	Listening on 127.0.0.1:7886
+1622878480614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjh\\AppData\\Local\\Temp\\rust_mozprofilegyvDd4"
+*** You are running in headless mode.
+1622878481093	Marionette	INFO	Marionette enabled
+1622878481642	geckodriver	INFO	Listening on 127.0.0.1:1966
+1622878482445	geckodriver	INFO	Listening on 127.0.0.1:1969
+1622878496871	geckodriver	INFO	Listening on 127.0.0.1:12754
+1622878510948	geckodriver	INFO	Listening on 127.0.0.1:1784
+1622878513998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjh\\AppData\\Local\\Temp\\rust_mozprofileFH5AYD"
+*** You are running in headless mode.
+1622878514474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622878515462	Marionette	INFO	Listening on port 14466
+1622878515542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:6053
+1622878533789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjh\\AppData\\Local\\Temp\\rust_mozprofileMIPXgG"
+*** You are running in headless mode.
+1622878534277	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622878535325	Marionette	INFO	Listening on port 3969
+1622878535845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:1666
+1622878577140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjh\\AppData\\Local\\Temp\\rust_mozprofileqehVCK"
+1622878577835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622878580245	Marionette	INFO	Listening on port 4032
+1622878580352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622878606150	Marionette	INFO	Stopped listening on port 4032
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622879254114	geckodriver	INFO	Listening on 127.0.0.1:11573
+1622879257150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjh\\AppData\\Local\\Temp\\rust_mozprofileFPCPhA"
+1622879257686	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622879259900	Marionette	INFO	Listening on port 7441
+1622879260336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622879277187	Marionette	INFO	Stopped listening on port 7441
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622880951541	geckodriver	INFO	Listening on 127.0.0.1:8604
+1622880954558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjh\\AppData\\Local\\Temp\\rust_mozprofileW6lelR"
+1622880955050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622880957209	Marionette	INFO	Listening on port 8614
+1622880957256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622880987911	Marionette	INFO	Stopped listening on port 8614
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622881002206	geckodriver	INFO	Listening on 127.0.0.1:8698
+1622881005264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjh\\AppData\\Local\\Temp\\rust_mozprofileLPdSK7"
+*** You are running in headless mode.
+1622881005747	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622881006791	Marionette	INFO	Listening on port 8708
+1622881006812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
